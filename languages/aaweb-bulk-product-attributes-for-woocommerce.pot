@@ -1,0 +1,187 @@
+# Copyright (C) 2026 AAWEB - Apostolou Antonios
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AAWEB Bulk Product Attributes for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/aaweb-bulk-product-attributes-for-woocommerce\n"
+"POT-Creation-Date: 2026-06-19 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: AAWEB manual POT builder\n"
+"X-Domain: aaweb-bulk-product-attributes-for-woocommerce\n"
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:1
+msgid "Bulk assign WooCommerce global product attributes to multiple products using advanced filters, bulk actions and a modern management interface."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:1
+msgid "AAWEB Bulk Product Attributes for WooCommerce"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:49
+msgid "AAWEB Bulk Product Attributes"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:383
+msgid "In stock"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:385
+msgid "Out of stock"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:387
+msgid "On backorder"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:472
+msgid "Product filters"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:480
+msgid "Title"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:481
+msgid "Search by title only"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:485
+msgid "Keyword / SKU"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:486
+msgid "Keyword, SKU or content"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:490
+msgid "Category"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:494
+msgid "All categories"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:509
+msgid "Stock status"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:511
+msgid "All stock"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:521
+msgid "Filter"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:522
+msgid "Reset"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:537
+msgid "Bulk attribute assignment"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:538
+msgid "Select products below and choose attribute terms here."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:542
+msgid "No WooCommerce global attributes found."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:550
+msgid "terms"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:555
+msgid "No terms"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:557
+msgid "Search in %s"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:559
+msgid "Select visible"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:560
+msgid "Clear"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:579
+msgid "Append to existing"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:579
+msgid "Keep existing terms and add the selected ones."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:584
+msgid "Replace existing"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:584
+msgid "Remove the existing terms for each attribute and assign only the selected ones."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:696
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:711
+msgid "Fast bulk assignment of WooCommerce global attributes with filters, product selection and safe saving."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:713
+msgid "products"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:738
+msgid "products selected"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:740
+msgid "Append"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:741
+msgid "Replace"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:742
+msgid "Apply to selected"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:753
+msgid "Image"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:754
+msgid "Name"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:756
+msgid "Price"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:757
+msgid "Stock"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:758
+msgid "Categories"
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:815
+msgid "No products found."
+msgstr ""
+
+#: aaweb-bulk-product-attributes-for-woocommerce.php:720
+msgid "%d product updated."
+msgid_plural "%d products updated."
+msgstr[0] ""
+msgstr[1] ""
